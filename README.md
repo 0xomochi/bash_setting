@@ -14,7 +14,9 @@ setting for bash
     - https://gist.github.com/kotashiratsuka/eac44d7e569f3721be5a12b8c221cab6#file-vimrc-L141  
 
 # Error
-- '''-bash: syntax error near unexpected token `newline''''  
+'''
+-bash: syntax error near unexpected token `newline'
+'''
     - https://stackoverflow.com/questions/5134399/bash-syntax-error-near-unexpected-token-newline  
 
 - 
