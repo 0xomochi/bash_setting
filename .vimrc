@@ -1,4 +1,7 @@
-syntax on
+call plug#begin('~/.vim/plugged')
+Plug 'vim-ruby/vim-ruby', { 'for': 'ruby' }
+Plug 'cocopon/iceberg'
+call plug#end()
 
 set ttyfast
 
