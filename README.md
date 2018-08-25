@@ -13,6 +13,15 @@ setting for bash
 - sample .vimrc  
     - https://gist.github.com/kotashiratsuka/eac44d7e569f3721be5a12b8c221cab6#file-vimrc-L141  
 
+# Color scheme
+1.  "ICEBERG"
+- https://cocopon.github.io/iceberg.vim/  
+- https://github.com/cocopon/iceberg.vim/  
+
+- https://qiita.com/lesguillemets/items/f4cdf359a89585ad1324  
+- https://cocopon.me/blog/2013/02/hybrid/?p=841  
+
+
 # Error
 ```
 -bash: syntax error near unexpected token `newline'
