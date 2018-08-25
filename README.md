@@ -16,7 +16,7 @@ setting for bash
 # Error
 ```
 -bash: syntax error near unexpected token `newline'
-```
+```  
     - https://stackoverflow.com/questions/5134399/bash-syntax-error-near-unexpected-token-newline  
 
 - 
