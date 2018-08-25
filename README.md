@@ -18,8 +18,9 @@ setting for bash
 - https://cocopon.github.io/iceberg.vim/  
 - https://github.com/cocopon/iceberg.vim/  
 
-- https://qiita.com/lesguillemets/items/f4cdf359a89585ad1324  
-- https://cocopon.me/blog/2013/02/hybrid/?p=841  
+- Others  
+    - https://qiita.com/lesguillemets/items/f4cdf359a89585ad1324  
+    - https://cocopon.me/blog/2013/02/hybrid/?p=841  
 
 
 # Error
